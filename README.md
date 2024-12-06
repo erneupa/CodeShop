@@ -1,6 +1,6 @@
 # CodeShop
 
-##VIDEO AQUÍ
+## VIDEO AQUÍ
 ([Pulse aquí para ver el video](https://drive.google.com/file/d/1YXw5TddS34PilG4OIaET2MXOD_ev6A_q/view?usp=sharing))
 
 ### 1.	Análisis de requisitos y objetivos del proyecto:
