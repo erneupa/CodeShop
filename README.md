@@ -15,14 +15,27 @@ A demás tendrá un encabezado y un píe de página .
 #### •	El wireframe debe reflejar la estructura básica de la página web, mostrando la organización visual de los elementos principales (encabezado, menús de navegación, área de contenido principal, pie de página, etc.).
 
 #### •	Producto: Un wireframe en Balsamiq que incluya los componentes principales de la página web.
+
+INICIO
 ![texto_alternativo](/maquetación/1.png)
+
+SOBRE NOSOTROS
+![texto_alternativo](/maquetación/8.png)
+
+SERVICIOS
+![texto_alternativo](/maquetación/7.png)
+
+CONTACTO
+![texto_alternativo](/maquetación/6.png)
+
+AVISOS LEGALES
 ![texto_alternativo](/maquetación/2.png)
 ![texto_alternativo](/maquetación/3.png)
 ![texto_alternativo](/maquetación/4.png)
+
+INICIO DE SESIÓN
 ![texto_alternativo](/maquetación/5.png)
-![texto_alternativo](/maquetación/6.png)
-![texto_alternativo](/maquetación/7.png)
-![texto_alternativo](/maquetación/8.png)
+
 
 ### 3.	Estructura HTML planificada:
 
