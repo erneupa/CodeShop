@@ -1,4 +1,8 @@
 # CodeShop
+
+##VIDEO AQUÍ
+([Pulse aquí para ver el video](https://drive.google.com/file/d/1YXw5TddS34PilG4OIaET2MXOD_ev6A_q/view?usp=sharing))
+
 ### 1.	Análisis de requisitos y objetivos del proyecto:
 
 #### •	Debéis analizar el enunciado del proyecto y definir los requisitos funcionales y no funcionales. Además, elegid las tecnologías utilizadas de forma justificada, documentando las ventajas que proporcionan en todos los aspectos tanto en el ámbito de aplicación, como por su sintaxis.
