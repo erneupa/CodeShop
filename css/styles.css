@@ -651,7 +651,7 @@ body{
                 justify-content: center;
                 align-items: center;
                 border-radius: 2rem 0 0 2rem;
-                background-image: url('https://cdn.discordapp.com/attachments/1057102709402116137/1313403848081276928/galaxia.png?ex=67500227&is=674eb0a7&hm=1a43f5c1dab33279a8ee626270cb291f9ff19284fd27508317d19d8fdad55dfe&');
+                background: var(--background_primario);
                 background-size: cover;
                 background-position: center center;
                 background-repeat: no-repeat;
